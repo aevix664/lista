@@ -1,0 +1,829 @@
+#EXTM3U
+#EXTINF:0,Via X
+#EXTGRP:Nacionales
+http://cdn.oneplaychile.cl:1935/PBS/via-x/playlist.m3u8
+#EXTINF:0,TVN HD
+#EXTGRP:Nacionales
+http://viafibra.trapemn.tv:1935/nacionales/tvnHD2.stream/playlist.m3u8
+#EXTINF:0,Mega HD
+#EXTGRP:Nacionales
+http://viafibra.trapemn.tv:1935/nacionales/megaHD2.stream/playlist.m3u8
+#EXTINF:0,Canal 13 HD
+#EXTGRP:Nacionales
+http://viafibra.trapemn.tv:1935/nacionales/canal13HD2.stream/playlist.m3u8
+#EXTINF:0,Chilevision HD
+#EXTGRP:Nacionales
+http://viafibra.trapemn.tv:1935/nacionales/chvHD2.stream/playlist.m3u8
+#EXTINF:0,La red HD
+#EXTGRP:Nacionales
+http://viafibra.trapemn.tv:1935/nacionales/laredHD2.stream/playlist.m3u8
+#EXTINF:0,Rec Tv
+#EXTGRP:Nacionales
+http://cdn.oneplaychile.cl:1935/nacionales/rectv.stream/playlist.m3u8
+#EXTINF:0,Tv +
+#EXTGRP:Nacionales
+http://cdn.oneplaychile.cl:1935/ALT/tv-mas/playlist.m3u8
+#EXTINF:0,Ucv
+#EXTGRP:Nacionales
+http://cdn.oneplaychile.cl:1935/regionales/ucv.stream/playlist.m3u8
+#EXTINF:0,Mega plus
+#EXTGRP:Nacionales
+http://cdn.oneplaychile.cl:1935/nacionales/megaplus/playlist.m3u8
+#EXTINF:0,Pbo
+#EXTGRP:Tv Perú
+http://cableperu.iptvperu.tv:8081/UDP/PBO.stream/playlist.m3u8
+#EXTINF:0,Intuitiva
+#EXTGRP:Tv Perú
+http://cableperu.iptvperu.tv:8081/UDP/INTUITIVAsw1.stream/playlist.m3u8
+#EXTINF:0,Perú Channel
+#EXTGRP:Tv Perú
+http://cdn.oneplaychile.cl:1935/miscelaneos/peruchannel.stream/playlist.m3u8
+#EXTINF:0,Latele
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/latele.stream/playlist.m3u8
+#EXTINF:0,Latina
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/latina.stream/playlist.m3u8
+#EXTINF:0,Willax
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/willax.stream/playlist.m3u8
+#EXTINF:0,Ipe
+#EXTGRP:Tv Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,Panamericana
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/panamericana.stream/playlist.m3u8
+#EXTINF:0,Global
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/global.stream/playlist.m3u8
+#EXTINF:0,America
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/america.stream/playlist.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/atvhd.stream/playlist.m3u8
+#EXTINF:0,ATV Sur
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/atvsur.stream/playlist.m3u8
+#EXTINF:0,Exitosa
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/exitosa.stream/playlist.m3u8
+#EXTINF:0,Usmp tv
+#EXTGRP:Tv Perú
+http://nimble.iptvperu.tv:1935/nacionales_pe/usmp.stream/playlist.m3u8
+#EXTINF:0,Canal 1
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/canal1.stream/index.m3u8
+#EXTINF:0,Telecafe
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/telecafe.stream/index.m3u8
+#EXTINF:0,Trece
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/trece.stream/index.m3u8
+#EXTINF:0,Telecaribe
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/telecaribe.stream/index.m3u8
+#EXTINF:0,Telepacifico
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/telepacifico.stream/index.m3u8
+#EXTINF:0,Teleantioquia
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/teleantioquia.stream/index.m3u8
+#EXTINF:0,Canal Capital
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/canalcapital.stream/index.m3u8
+#EXTINF:0,Canal Tro
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/canaltro.stream/index.m3u8
+#EXTINF:0,Señal Colombia
+#EXTGRP:Tv Colombia
+http://cdn-a.trapemn.tv/EGA/senalcolombia.stream/index.m3u8
+#EXTINF:0,Ciudad Magazine
+#EXTGRP:Tv Argentina
+http://cablered.iptvperu.tv:1935/transcoder/ciudadmagazineHD/playlist.m3u8
+#EXTINF:0,America Tv
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/america2tv.stream/playlist.m3u8
+#EXTINF:0,El Nueve
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/elnueve.stream/playlist.m3u8
+#EXTINF:0,Santa Rosa
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/santarosa.stream/playlist.m3u8
+#EXTINF:0,TN
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales_ar-transcoder/TN.stream/playlist.m3u8
+#EXTINF:0,Cine Argentino
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/cineargentino.stream/playlist.m3u8
+#EXTINF:0,Cronica Tv
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/cronicaHD.stream/playlist.m3u8
+#EXTINF:0,Telefe
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/telefe.stream/playlist.m3u8
+#EXTINF:0,La Nacion Plus
+#EXTGRP:Tv Argentina
+http://cablevision.trapemn.tv:1935/nacionales-ar_transcoder/lanacionplus.stream/playlist.m3u8
+#EXTINF:0,Antofagasta TV
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/antofagastatv.stream/playlist.m3u8
+#EXTINF:0,Autonoma TV Temuco
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/autonomatv.stream/playlist.m3u8
+#EXTINF:0,Canal 9
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/biobio.stream/playlist.m3u8
+#EXTINF:0,Contivisión television
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/contivision.stream/playlist.m3u8
+#EXTINF:0,ITV patagonia
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/itvpatagonia.stream/playlist.m3u8
+#EXTINF:0,Tendencias
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/tendencias.stream/playlist.m3u8
+#EXTINF:0,TVR
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/tvr.stream/playlist.m3u8
+#EXTINF:0,TVU concepción
+#EXTGRP:Regionales
+http://cdn.oneplaychile.cl:1935/regionales/tvuconcepcion.stream/playlist.m3u8
+#EXTINF:0,Aysen TV
+#EXTGRP:Comunales
+http://mitplay.trapemn.tv:1935/MCG/aysentv.stream/playlist.m3u8
+#EXTINF:0,Survision
+#EXTGRP:Comunales
+http://patagoniaip.trapemn.tv:8081/comunales/survision1.stream/playlist.m3u8
+#EXTINF:0,Imagen Tv
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/imagentv.stream/playlist.m3u8
+#EXTINF:0,Canal 11 Curico
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/regionales/canal11curico.stream/playlist.m3u8
+#EXTINF:0,Click tv
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/clicktv.stream/playlist.m3u8
+#EXTINF:0,Gtv television
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/gtvtelevision.stream/playlist.m3u8
+#EXTINF:0,Santiago tv
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/regionales/stgotv.stream/playlist.m3u8
+#EXTINF:0,Cmastv
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/cmastv.stream/playlist.m3u8
+#EXTINF:0,Canal DOS los angeles
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/canal2losangeles.stream/playlist.m3u8
+#EXTINF:0,Canal 21 Chillan
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/canal21chillan.stream/playlist.m3u8
+#EXTINF:0,Girovisual
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/girovisual.stream/playlist.m3u8
+#EXTINF:0,Holvoet TV
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/holvoettv.stream/playlist.m3u8
+#EXTINF:0,Inet tv
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/inettv.stream/playlist.m3u8
+#EXTINF:0,VTV valle
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/vtvvalle.stream/playlist.m3u8
+#EXTINF:0,Genialtv
+#EXTGRP:Comunales
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+#EXTINF:0,Tv 8
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/comunales/canal8.stream/playlist.m3u8
+#EXTINF:0,Decima
+#EXTGRP:Comunales
+http://cdn.oneplaychile.cl:1935/regionales/decimatv.stream/playlist.m3u8
+#EXTINF:0,Sextavision
+#EXTGRP:Comunales
+http://170.79.102.232:58090/regionales/sextavision.stream/playlist.m3u8
+#EXTINF:0,Wimix
+#EXTGRP:Cine
+http://cdn-a.trapemn.tv/VimixTV/index.m3u8
+#EXTINF:0,xtimes
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/XTIMEsw3.stream/playlist.m3u8
+#EXTINF:0,Ghan Tv
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/GHANTVsw1.stream/playlist.m3u8
+#EXTINF:0,Cinema+
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/CINEMA+sw3.stream/playlist.m3u8
+#EXTINF:0,Central
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/CENTRAL.stream/playlist.m3u8
+#EXTINF:0,Watch Black
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/cine/watchblack.stream/playlist.m3u8
+#EXTINF:0,Watch Gold
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/cine/watchgold.stream/playlist.m3u8
+#EXTINF:0,Watch Platinum
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/cine/watchplatinum.stream/playlist.m3u8
+#EXTINF:0,Watch Silver
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/cine/watchsilver.stream/playlist.m3u8
+#EXTINF:0,Mx Prime
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:50080/MCG/mxprime/index.m3u8
+#EXTINF:0,Dpelicula
+#EXTGRP:Cine
+http://egacomunicaciones.trapemn.tv:1935/transcoder/depelicula.stream/playlist.m3u8
+#EXTINF:0,Fm Hot Movies
+#EXTGRP:Cine
+http://patagoniaip.trapemn.tv:8081/FMHot/fmhmovies.stream/playlist.m3u8
+#EXTINF:0,FmHot Family
+#EXTGRP:Cine
+http://patagoniaip.trapemn.tv:8081/FMHot/fmhfamily.stream/playlist.m3u8
+#EXTINF:0,Fm Hot Rewind
+#EXTGRP:Cine
+http://patagoniaip.trapemn.tv:8081/FMHot/fmhrewind.stream/playlist.m3u8
+#EXTINF:0,MX
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:50080/MCG/mxprime/index.m3u8
+#EXTINF:0,MX Family
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:50080/MCG/mx_family/index.m3u8
+#EXTINF:0,MX Classic
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:50080/MCG/mx_clasic/index.m3u8
+#EXTINF:0,Space
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/space/playlist.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/hbo/playlist.m3u8
+#EXTINF:0,AE
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/ae-hd/playlist.m3u8
+#EXTINF:0,AMC HD
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/transcoder/amcHD.stream/playlist.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/COMEDYCENTRALsw1.stream/playlist.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/PBS/axn/playlist.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/cine/cinecanal.stream/playlist.m3u8
+#EXTINF:0,Golden
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/cine/golden.stream/playlist.m3u8
+#EXTINF:0,StarChannel
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/STARCHsw1.stream/playlist.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:Cine
+http://nimble.iptvperu.tv:1935/cine_transcoder/HBO_Signature.stream/playlist.m3u8
+#EXTINF:0,HBO pop
+#EXTGRP:Cine
+http://nimble.iptvperu.tv:1935/cine_transcoder/HBO_Pop.stream/playlist.m3u8
+#EXTINF:0,HBO Plus
+#EXTGRP:Cine
+http://nimble.iptvperu.tv:1935/cine_transcoder/HBO_Plus.stream/playlist.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:Cine
+http://nimble.iptvperu.tv:1935/cine_transcoder/HBO_Family.stream/playlist.m3u8
+#EXTINF:0,HBO Xtream
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/cine/HBO_Xtreme.stream/playlist.m3u8
+#EXTINF:0,Star Life
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/star-life/playlist.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/PBS/paramount.stream/playlist.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/PBS/cinemax.stream/playlist.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/tnt/playlist.m3u8
+#EXTINF:0,Universal Channel
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/PBS/universal-channel/playlist.m3u8
+#EXTINF:0,DHE
+#EXTGRP:Cine
+http://iptv.waoo.pe:1935/PBS/dhe.stream/playlist.m3u8
+#EXTINF:0,FX
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/fx/playlist.m3u8
+#EXTINF:0,FXM
+#EXTGRP:Cine
+http://cableperu.iptvperu.tv:8081/UDP/FXMOVIsw1.stream/playlist.m3u8
+#EXTINF:0,Warner Channel
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/warner-channel/playlist.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/studio-universal/playlist.m3u8
+#EXTINF:0,Syfy
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/transcoder/syfyHD.stream/playlist.m3u8
+#EXTINF:0,Europa&europa
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/transcoder/EyEHD.stream/playlist.m3u8
+#EXTINF:0,CineHispano
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/UDP/cinehispano.stream/playlist.m3u8
+#EXTINF:0,Cinefamiliar
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/UDP/cinefamiliar.stream/playlist.m3u8
+#EXTINF:0,Old
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/tvplus/old.stream/playlist.m3u8
+#EXTINF:0,Azteca Cine
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/azteca/az-cinema/playlist.m3u8
+#EXTINF:0,CinePremium
+#EXTGRP:Cine
+http://surbit.trapemn.tv:1935/UDP/cinepremium.stream/playlist.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:Cine
+http://cdn.oneplaychile.cl:1935/ALT/tnt-series/playlist.m3u8
+#EXTINF:0,Zoomoo
+#EXTGRP:Infantil
+http://cableperu.iptvperu.tv:8081/UDP/ZOOMOOsw1.stream/playlist.m3u8
+#EXTINF:0,Pequeñines
+#EXTGRP:Infantil
+http://egacomunicaciones.trapemn.tv:1935/infantil/pequenines.stream/playlist.m3u8
+#EXTINF:0,Fun Box
+#EXTGRP:Infantil
+http://cableperu.iptvperu.tv:8081/UDP/FUNBOXsw3.stream/playlist.m3u8
+#EXTINF:0,BSR
+#EXTGRP:Infantil
+http://cirrus.trapemn.tv:1935/live/test9.stream/playlist.m3u8
+#EXTINF:0,Animation
+#EXTGRP:Infantil
+http://cirrus.trapemn.tv:1935/Wircom/Animation/playlist.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Infantil
+http://cablevision.trapemn.tv:1935/infantil_transcoder/nickelodeon.stream/playlist.m3u8
+#EXTINF:0,NTV
+#EXTGRP:Infantil
+http://mitplay.trapemn.tv:1935/infantil/NTV.stream/playlist.m3u8
+#EXTINF:0,AnimeZone
+#EXTGRP:Infantil
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0,FMHot Kids
+#EXTGRP:Infantil
+http://patagoniaip.trapemn.tv:8081/FMHot/fmhkids.stream/playlist.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/PBS/disney-xd/playlist.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/PBS/disney-junior/playlist.m3u8
+#EXTINF:0,Baby Tv
+#EXTGRP:Infantil
+http://surbit.trapemn.tv:1935/transcoder/BabyTVHD.stream/playlist.m3u8
+#EXTINF:0,Canal Infantil
+#EXTGRP:Infantil
+http://surbit.trapemn.tv:1935/UDP/canalinfantil.stream/playlist.m3u8
+#EXTINF:0,Babyfirst
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/infantil/babyfirst/playlist.m3u8
+#EXTINF:0,Dos Kids
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/infantil/doskids.stream/playlist.m3u8
+#EXTINF:0,Kidsabada
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/infantil/kidsabada.stream/playlist.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Infantil
+http://iptv.waoo.pe:1935/PBS/cartoon-network.stream/playlist.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/ALT/discovery-kids/playlist.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/ALT/disney-channel/playlist.m3u8
+#EXTINF:0,Clan
+#EXTGRP:Infantil
+http://surbit.trapemn.tv:1935/transcoder/ClanHD/playlist.m3u8
+#EXTINF:0,NTV
+#EXTGRP:Infantil
+http://cdn.oneplaychile.cl:1935/infantil/NTV.stream/playlist.m3u8
+#EXTINF:0,Nuestra Tele
+#EXTGRP:Deportes
+rtmp://cableperu.iptvperu.tv:31935/UDP/NUESTRATELEsw1.stream
+#EXTINF:0,TNT Sports 2
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/tntsport2HD.stream/playlist.m3u8
+#EXTINF:0,TNT sports 3
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/tntsports3HD.stream/playlist.m3u8
+#EXTINF:0,TNT Sports 2 Oneplay
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/tnt-sports-2/playlist.m3u8
+#EXTINF:0,TNT Sports 3 Oneplay
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/tnt-sports-3/playlist.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/ESPN1HD.stream/playlist.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/ESPN2HD.stream/playlist.m3u8
+#EXTINF:0,ESPN Extra
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/ALT/espn-extra/playlist.m3u8
+#EXTINF:0,Fox sports
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/foxsportsHD.stream/playlist.m3u8
+#EXTINF:0,Fox sports 3
+#EXTGRP:Deportes
+http://surbit.trapemn.tv:1935/transcoder/foxsports3HD.stream/playlist.m3u8
+#EXTINF:0,America Sport
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/america-sports/playlist.m3u8
+#EXTINF:0,Tyc sport
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/tyc-sports/playlist.m3u8
+#EXTINF:0,Tudn
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/tudn/playlist.m3u8
+#EXTINF:0,Sport Ext
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/deportes/sportext.stream/playlist.m3u8
+#EXTINF:0,Gol Perú
+#EXTGRP:Deportes
+http://wifispeed.trapemn.tv:1935/PBS/gol-tv/playlist.m3u8
+#EXTINF:0,Fitmaxx
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/deportes/fitmaxx.stream/playlist.m3u8
+#EXTINF:0,CDO
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/deportes/cdo.stream/playlist.m3u8
+#EXTINF:0,Titan
+#EXTGRP:Deportes
+http://cableperu.iptvperu.tv:8081/UDP/TITANsw1.stream/playlist.m3u8
+#EXTINF:0,1000 x hora Tv
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/miscelaneos/1000xhorastv.stream/playlist.m3u8
+#EXTINF:0,Redbull
+#EXTGRP:Deportes
+http://cdn.oneplaychile.cl:1935/PBS/redbull-tv/playlist.m3u8
+#EXTINF:0,Mix 24/7 Global Hits
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7-GlobalHits.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Conciertos
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7conciertos.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Pop
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7MixPop.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Retro
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7retro.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Retro mix
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7RetroMix.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Puro Rock
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7rock.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Top 100
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7top100.stream/playlist.m3u8
+#EXTINF:0,Mix 24/7 Tropical
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/musicales/Mix24-7tropical.stream/playlist.m3u8
+#EXTINF:0,Mtv 80s
+#EXTGRP:Musicales
+http://cableperu.iptvperu.tv:8081/UDP/MTV80sw3.stream/playlist.m3u8
+#EXTINF:0,Rck TV
+#EXTGRP:Musicales
+http://cirrus.trapemn.tv:1935/_cdnAppit/RCKTV/playlist.m3u8
+#EXTINF:0,Old Musica
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/MCG/oldmusic.stream/playlist.m3u8
+#EXTINF:0,Retroplus 1
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/retroplus1.stream/playlist.m3u8
+#EXTINF:0,Retroplus 2
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/retroplus2.stream/playlist.m3u8
+#EXTINF:0,Zoomback
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/zoomback.stream/playlist.m3u8
+#EXTINF:0,Suram Tv
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/miscelaneos/suramtv.stream/playlist.m3u8
+#EXTINF:0,Cultour
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/musicales/cultour.stream/playlist.m3u8
+#EXTINF:0,Kizzi
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/musicales/kizzi.stream/playlist.m3u8
+#EXTINF:0,Tropical Moon
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/musicales/tropicalmoon.stream/playlist.m3u8
+#EXTINF:0,Urban
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/musicales/urban.stream/playlist.m3u8
+#EXTINF:0,Energia Tv
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/regionales/energia-fm/playlist.m3u8
+#EXTINF:0,T13 Radio
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/radios/t13-radio/playlist.m3u8
+#EXTINF:0,InterRadio
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/comunales/livestream1/playlist.m3u8
+#EXTINF:0,Adn Radio
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/radios/adnradio/playlist.m3u8
+#EXTINF:0,Patagonia Radio
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/radios/radiopatagonia.stream/playlist.m3u8
+#EXTINF:0,Kpop
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/kpop.stream/playlist.m3u8
+#EXTINF:0,Mi Musica Hits
+#EXTGRP:Musicales
+http://surbit.trapemn.tv:1935/UDP/mimusicaingles.stream/playlist.m3u8
+#EXTINF:0,Mi Musica Kpop
+#EXTGRP:Musicales
+http://surbit.trapemn.tv:1935/UDP/mimusicakpop.stream/playlist.m3u8
+#EXTINF:0,Mi Musica Romantica
+#EXTGRP:Musicales
+http://surbit.trapemn.tv:1935/UDP/mimusicaromantica.stream/playlist.m3u8
+#EXTINF:0,Mi Musica Reggaeton
+#EXTGRP:Musicales
+http://surbit.trapemn.tv:1935/UDP/mimusicareggaeton.stream/playlist.m3u8
+#EXTINF:0,am canal
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/amcanal.stream/playlist.m3u8
+#EXTINF:0,Carolina TV
+#EXTGRP:Musicales
+http://patagoniaip.trapemn.tv:8081/radios/carolina.stream/playlist.m3u8
+#EXTINF:0,Contivisión musica
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/contimusica.stream/playlist.m3u8
+#EXTINF:0,Fuego TV
+#EXTGRP:Musicales
+http://nimble.iptvperu.tv:1935/musicales/fuegotv.stream/playlist.m3u8
+#EXTINF:0,Karavana
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/karavana.stream/playlist.m3u8
+#EXTINF:0,Top latino
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/toplatino.stream/playlist.m3u8
+#EXTINF:0,Urbano tv
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/musicales/karavanaurbano.stream/playlist.m3u8
+#EXTINF:0,Zona Latina
+#EXTGRP:Musicales
+http://cdn.oneplaychile.cl:1935/PBS/zona-latina/playlist.m3u8
+#EXTINF:0,Radio Gentes movil
+#EXTGRP:Radios
+http://cast.radioservicios.cl:8500/movil
+#EXTINF:0,Radio Gentes
+#EXTGRP:Radios
+http://cast.radioservicios.cl:8500/web
+#EXTINF:0,Infinita
+#EXTGRP:Radios
+http://cdn.oneplaychile.cl:1935/radios/infinita/playlist.m3u8
+#EXTINF:0,Radio duna
+#EXTGRP:Radios
+http://170.79.102.232:58090/radios/duna/playlist.m3u8
+#EXTINF:0,Radio Portales
+#EXTGRP:Radios
+http://cdn.oneplaychile.cl:1935/radios/radioportales.stream/playlist.m3u8
+#EXTINF:0,Radio romantica
+#EXTGRP:Radios
+http://cdn.oneplaychile.cl:1935/radios/romantica.stream/playlist.m3u8
+#EXTINF:0,Radio Disney
+#EXTGRP:Radios
+http://cdn.oneplaychile.cl:1935/radios/disney/playlist.m3u8
+#EXTINF:0,TNE
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/tnetv.stream/playlist.m3u8
+#EXTINF:0,Enlace
+#EXTGRP:Cristianos
+http://cablered.iptvperu.tv:1935/transcoder/enlace/playlist.m3u8
+#EXTINF:0,Aliento Vision
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/alientovision.stream/playlist.m3u8
+#EXTINF:0,Gracia tv nacional
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/graciatvnacional.stream/playlist.m3u8
+#EXTINF:0,Red de fe
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/reddefe/playlist.m3u8
+#EXTINF:0,Televida
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/televida.stream/playlist.m3u8
+#EXTINF:0,Nuevo Tiempo Chile
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/nuevotiempo_chile.stream/playlist.m3u8
+#EXTINF:0,Canal Luz
+#EXTGRP:Cristianos
+http://nimble.iptvperu.tv:1935/cristianos/canalluz.stream/playlist.m3u8
+#EXTINF:0,Dios Tv
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/Diosteve.stream/playlist.m3u8
+#EXTINF:0,Radio Armonia
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/radioarmonia.stream/playlist.m3u8
+#EXTINF:0,ExtremaTv
+#EXTGRP:Cristianos
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Bethel tv
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/betheltv.stream/playlist.m3u8
+#EXTINF:0,JN19
+#EXTGRP:Cristianos
+http://cdn.oneplaychile.cl:1935/cristianos/jn19.stream/playlist.m3u8
+#EXTINF:0,Canal Ingles
+#EXTGRP:Variedades
+http://egacomunicaciones.trapemn.tv:1935/live/canalingles.stream/playlist.m3u8
+#EXTINF:0,Life Time
+#EXTGRP:Variedades
+https://cableperu.iptvperu.tv:1936/UDP/LIFETIMEsw2.stream/playlist.m3u8
+#EXTINF:0,History
+#EXTGRP:Variedades
+http://iptv.waoo.pe:1935/PBS/history-1.stream/playlist.m3u8
+#EXTINF:0,History2
+#EXTGRP:Variedades
+http://iptv.waoo.pe:1935/PBS/history-2.stream/playlist.m3u8
+#EXTINF:0,Wircom Channel
+#EXTGRP:Variedades
+http://linenet.trapemn.tv:1935/_cdnAppit/wircom-tv/playlist.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/discovery-channel/playlist.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Variedades
+http://iptv.waoo.pe:1935/PBS/animal-planet.stream/playlist.m3u8
+#EXTINF:0,Discovery hh
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/discovery-hh/playlist.m3u8
+#EXTINF:0,Discovery ID
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/discovery-id/playlist.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/discovery-theater/playlist.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/discovery-world/playlist.m3u8
+#EXTINF:0,NatGeo
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/natgeo/playlist.m3u8
+#EXTINF:0,24horas España
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/PBS/tve-24h/playlist.m3u8
+#EXTINF:0,NatGeo Wild
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/natgeo-wild/playlist.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/food-network/playlist.m3u8
+#EXTINF:0,El gourment
+#EXTGRP:Variedades
+http://cdn.oneplaychile.cl:1935/ALT/el-gourmet/playlist.m3u8
+#EXTINF:0,Intuitiva
+#EXTGRP:Miscelaneos
+http://cableperu.iptvperu.tv:8081/UDP/Intuitiva.stream/playlist.m3u8
+#EXTINF:0,Pasiones
+#EXTGRP:Miscelaneos
+http://cableperu.iptvperu.tv:8081/UDP/PASIONESsw1.stream/playlist.m3u8
+#EXTINF:0,Ve Plus
+#EXTGRP:Miscelaneos
+http://cableperu.iptvperu.tv:8081/UDP/VEplus.stream/playlist.m3u8
+#EXTINF:0,VPI Tv
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/VPItv.stream/playlist.m3u8
+#EXTINF:0,Mexico Travel Channel
+#EXTGRP:Miscelaneos
+http://200.122.228.85:1935/live/mexicotravel.stream/playlist.m3u8
+#EXTINF:0,Wapp
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/wapp.stream/playlist.m3u8
+#EXTINF:0,Garaje Tv
+#EXTGRP:Miscelaneos
+http://cablevision.trapemn.tv:1935/deportes_transcoder/elgaragetv/playlist.m3u8
+#EXTINF:0,Solo stand up
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/solostandup.stream/playlist.m3u8
+#EXTINF:0,Sun Channel
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/ALT/sun-channel/playlist.m3u8
+#EXTINF:0,Box Gamer
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/boxgamers.stream/playlist.m3u8
+#EXTINF:0,Azteca clik
+#EXTGRP:Miscelaneos
+http://surbit.trapemn.tv:1935/transcoder/azclicHD/playlist.m3u8
+#EXTINF:0,Folklore tv
+#EXTGRP:Miscelaneos
+https://cdn.oneplaychile.cl:1936/miscelaneos/folkloretv.stream/playlist.m3u8
+#EXTINF:0,Azteca corazon
+#EXTGRP:Miscelaneos
+http://surbit.trapemn.tv:1935/transcoder/azcorazonHD/playlist.m3u8
+#EXTINF:0,Ucl
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/ucl.stream/playlist.m3u8
+#EXTINF:0,Azteca Mundo
+#EXTGRP:Miscelaneos
+http://olivos1.iptvperu.tv:1935/miscelaneos_transcoder/AzMundo.stream/playlist.m3u8
+#EXTINF:0,Nasa Tv
+#EXTGRP:Miscelaneos
+http://nimble.iptvperu.tv:1935/miscelaneos/nasa-tv.stream/playlist.m3u8
+#EXTINF:0,Sophia Tv
+#EXTGRP:Miscelaneos
+http://nimble.iptvperu.tv:1935/miscelaneos/sophia-tv.stream/playlist.m3u8
+#EXTINF:0,Tve
+#EXTGRP:Miscelaneos
+http://olivos1.iptvperu.tv:1935/miscelaneos_transcoder/AzMundo.stream/playlist.m3u8
+#EXTINF:0,Agrotendencia
+#EXTGRP:Miscelaneos
+http://nimble.iptvperu.tv:1935/miscelaneos/agrotendencias.stream/playlist.m3u8
+#EXTINF:0,True Tv
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/ALT/tru-tv/playlist.m3u8
+#EXTINF:0,tevex
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/tevex.stream/playlist.m3u8
+#EXTINF:0,Ladies
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/ladies/playlist.m3u8
+#EXTINF:0,13c
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/nacionales/13C.stream/playlist.m3u8
+#EXTINF:0,Campo abierto
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/campoabierto.stream/playlist.m3u8
+#EXTINF:0,Canal cnc
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/cncmedellin.stream/playlist.m3u8
+#EXTINF:0,Conecta2tv
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/conecta2tv.stream/playlist.m3u8
+#EXTINF:0,Caribeteve
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/cariveteve.stream/playlist.m3u8
+#EXTINF:0,Estacion tv
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/estacion96/playlist.m3u8
+#EXTINF:0,Mundo y sabor
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/mundoysabor/playlist.m3u8
+#EXTINF:0,On Tour channel
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/ontourchannel.stream/playlist.m3u8
+#EXTINF:0,Wow TV
+#EXTGRP:Miscelaneos
+http://cdn.oneplaychile.cl:1935/miscelaneos/wowtv.stream/playlist.m3u8
+#EXTINF:0,Nexoplayer
+#EXTGRP:Game
+http://cdn.oneplaychile.cl:1935/deportes/nexoplay/playlist.m3u8
+#EXTINF:0,BoxGamers
+#EXTGRP:Game
+http://cdn.oneplaychile.cl:1935/miscelaneos/boxgamers.stream/playlist.m3u8
+#EXTINF:0,ETC
+#EXTGRP:Game
+http://cirrus.trapemn.tv:1935/Wircom/ETCTV/playlist.m3u8
+#EXTINF:0,24 horas HD
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/nacionales/24horasHD2.stream/playlist.m3u8
+#EXTINF:0,Rt en español
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/miscelaneos/rtespanol.stream/playlist.m3u8
+#EXTINF:0,CNN Chile
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/nacionales/cnnchile.stream/playlist.m3u8
+#EXTINF:0,ATV+
+#EXTGRP:Noticias
+http://nimble.iptvperu.tv:1935/nacionales_pe/atvplus.stream/playlist.m3u8
+#EXTINF:0,Aljazeera
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/miscelaneos/aljazeera.stream/playlist.m3u8
+#EXTINF:0,Dw español
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/miscelaneos/dw/playlist.m3u8
+#EXTINF:0,Telesur
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/miscelaneos/telesur.stream/playlist.m3u8
+#EXTINF:0,Uci
+#EXTGRP:Noticias
+http://cdn.oneplaychile.cl:1935/miscelaneos/uci.stream/playlist.m3u8
+#EXTINF:0,Educable
+#EXTGRP:otros
+http://nb01-pm.patagoniaip.cl:8081/comunales/educable2.stream/playlist.m3u8
+#EXTINF:0,E! Entertainment
+#EXTGRP:otros
+http://cableperu.iptvperu.tv:8081/UDP/E!sw2.stream/playlist.m3u8
+#EXTINF:0,Caracola Tv
+#EXTGRP:скрытые
+http://wifispeed.trapemn.tv:8081/comunales/caracola-tv/playlist.m3u8
